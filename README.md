@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adnan-Ali-007
--I am currently pursuing btech in computer science from Nit srinagar.
+-I am currently pursuing btech in Information technology from Nit srinagar.
 - 👀 I’m interested in solving problems and looking for internsips. 
 - 🌱 I’m currently learning Web Development and data structres in java
 - 💞️ I’m looking to collaborate on web development projects,java projects,react.
