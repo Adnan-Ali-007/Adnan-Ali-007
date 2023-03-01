@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Ali Ganaie</h1>
-<h3 align="center">A passionate fullstack developer from India, currently studying BTECH in IT from NIT Srinagar.</h3>
+<h3 align="center">A passionate fullstack developer from India, currently studying BTECH in IT from NIT Srinagar.Looking to get into investment banking.quants</h3>
 <img align="centre" alt="Coding" width="1200" src="https://25.media.tumblr.com/e3218b5fd18ddbff092f3cea2e6c4405/tumblr_ml4b6lchbC1qde177o1_400.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnan-ali-007" alt="adnan-ali-007" /></a> </p>
 
