@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Ali Ganaie</h1>
 <h3 align="center">A passionate fullstack developer from India, currently studying Btech in IT from NIT Srinagar.</h3>
-<img align="centre" alt="Coding" width="1200" src="https://25.media.tumblr.com/e3218b5fd18ddbff092f3cea2e6c4405/tumblr_ml4b6lchbC1qde177o1_400.gif">
 
 
 - 🌱 I’m currently learning **MERN STACK/Ml in python/DSA in java**
@@ -30,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan-ali-007&show_icons=true&locale=en&layout=compact" alt="adnan-ali-007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan-ali-007&show_icons=true&locale=en" alt="adnan-ali-007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-ali-007&" alt="adnan-ali-007" /></p>
