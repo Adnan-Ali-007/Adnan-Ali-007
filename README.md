@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adnan Ali Ganaie</h1>
-<h3 align="center">A passionate fullstack developer from India, currently studying Btech in IT from NIT Srinagar.</h3>
-
-
-- 🌱 I’m currently learning **MERN STACK/Ml in python/DSA in java**
-
-- 👯 I’m looking to collaborate on **Mern stack projects/ML**
-
+<h3 align="center">A passionate  developer from India, graduted with Btech in IT from NIT Srinagar.</h3>
 - 👨‍💻 All of my projects are available at [https://adnan-ali-007.github.io/Personal-Portfolio/](https://adnan-ali-007.github.io/Personal-Portfolio/)
-
-- 💬 Ask me about **React/MERN Stack/Machine learning/UI/UX/**
-
 - 📫 How to reach me **Adnanali123456@gmail.com**
 
 - 📄 Know about my experiences [https://adnan-ali-007.github.io/Personal-Portfolio/](https://adnan-ali-007.github.io/Personal-Portfolio/)
